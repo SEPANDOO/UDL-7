@@ -2,6 +2,7 @@
 
 - [Aban_S1E2-360.mp4](./Aban_S1E2-360.mp4)
 - [Aban_S1E2-360](./Aban_S1E2-360)
+- [Savage-S02E10-720.mp4](./Savage-S02E10-720.mp4)
 - [Savage-S02E10-720](./Savage-S02E10-720)
 - [Savushun_S01E04-360.mp4](./Savushun_S01E04-360.mp4)
 - [Savushun_S01E04-360](./Savushun_S01E04-360)
@@ -32,6 +33,7 @@
 - [aban.E1-360.mp4](./aban.E1-360.mp4)
 - [aban.E1-360](./aban.E1-360)
 - [sovashoun-E3-360.mp4](./sovashoun-E3-360.mp4)
+- [sovashoun-E3-360](./sovashoun-E3-360)
 - [vahshi-s02-e12-720.mp4](./vahshi-s02-e12-720.mp4)
 - [vahshi-s02-e12-720](./vahshi-s02-e12-720)
 
