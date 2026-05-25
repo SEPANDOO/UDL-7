@@ -1,4 +1,4 @@
-# 📥 - Download Failed
+# Download - Download Failed
 
 ---
 
@@ -6,9 +6,9 @@
 
 | Property | Value |
 |----------|-------|
-| **File** | `📥` |
-| **URL** | 📥 |
-| **Date** | 2026-05-25 00:31:09 UTC |
+| **File** | `Download` |
+| **URL** | Download |
+| **Date** | 2026-05-25 00:48:44 UTC |
 | **Status** | **FAILED** |
 
 ---
@@ -16,13 +16,13 @@
 ## Error Details
 
 ```
-Download failed after 3 attempts. Last error: curl: (6) Could not resolve host: xn--bu8h
+Download failed after 3 attempts. Last error: curl: (6) Could not resolve host: Download
 Warning: Problem : timeout. Will retry in 5 seconds. 3 retries left.
-#=#=#                                                                          curl: (6) Could not resolve host: xn--bu8h
+#=#=#                                                                          curl: (6) Could not resolve host: Download
 Warning: Problem : timeout. Will retry in 5 seconds. 2 retries left.
-##O#-#                                                                         curl: (6) Could not resolve host: xn--bu8h
+##O#-#                                                                         curl: (6) Could not resolve host: Download
 Warning: Problem : timeout. Will retry in 5 seconds. 1 retries left.
-##O=#  #                                                                       curl: (6) Could not resolve host: xn--bu8h
+##O=#  #                                                                       curl: (6) Could not resolve host: Download
 ```
 
 ---
